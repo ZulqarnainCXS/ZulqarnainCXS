@@ -1,24 +1,26 @@
-# Haider Gilani — Digital Marketing Portfolio
+# Fix My Search — Digital Growth Portfolio
 
-Premium static portfolio for Syed Zulqarnain Haider Gilani.
+Premium one-page portfolio and brand site for **Fix My Search**, led by Syed Zulqarnain Haider Gilani.
 
-## Focus
-- Digital Marketing
-- SEO & Content Strategy
-- Google / Meta / TikTok Ads
-- WordPress Development
+## What we do
+- SEO & Organic Growth
+- Google / Meta / Social Paid Advertising
 - Lead Generation
-- Social Media Marketing
-- AI Marketing Workflows
+- Digital Marketing & Strategy
+- Content & Social Media
+- WordPress & Conversion-Focused Web
+- AI-Assisted Marketing Workflows
 
 ## Selected work
-HosterPK, Stellar Career College Chicago, MedsDental.com, Wealth Builders Desi, Get Driving With Kash, CyberX Studios.
+- One World Rental — paid ads, organic traffic growth, lead generation, SEO and digital marketing
+- MiniCabIt.com — SEO, digital marketing and paid ads; ranking for 500+ keywords
+- HosterPK — SEO and organic growth
+- Stellar Career College Chicago — digital marketing, paid campaigns, social and SEO content
+- MedsDental.com — web, SEO and digital marketing
+- CyberX Studios — web, positioning and digital marketing
 
 ## Tech
 HTML5 • CSS3 • JavaScript • GitHub Pages
 
-## Deployment
+## Publishing
 The repository includes a GitHub Actions workflow for GitHub Pages.
-
-## Contact
-Update the contact email in `script.js` before publishing the contact form.
